@@ -1,4 +1,13 @@
 # OIBSIP_DataScience_taskno2
+Name Abhishek Kalekar
+
+Data Science Intern
+
+Oasisinfobyte
+
+Title:Unemployment Analysis with Python
+
+
 📌 Objective
 
 To analyze unemployment rate data and understand trends, patterns, and factors affecting unemployment using data analysis and Machine Learning techniques. The project aims to visualize insights and build a model to predict unemployment rates.
