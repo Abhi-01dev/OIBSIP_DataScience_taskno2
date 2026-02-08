@@ -7,6 +7,8 @@ Oasisinfobyte
 
 Title:Unemployment Analysis with Python
 
+YT Link : https://youtu.be/CDyJSG1ngrg
+
 
 📌 Objective
 
